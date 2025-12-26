@@ -1,1 +1,2 @@
-# This Repo is Only Created to Remind yourself to the essentail Keyboard Shortcut used in development usually.
+# Developer Shortcuts
+>This Repo is Only Created to Remind yourself to the essentail Keyboard Shortcut used in development usually.
